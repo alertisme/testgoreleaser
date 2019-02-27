@@ -1,4 +1,0 @@
-defa99bd66258b919008607e29af92f1caa974774eed52e7d61e0ff4cb9b4eb7  testgoreleaser_v0.0.0-next_Linux_x86_64.tar.gz
-628ec13fb05d0a996c56062878c724856ccda85582907c9a065a90f34b661886  testgoreleaser_v0.0.0-next_Darwin_i386.tar.gz
-a8dde2a8a87ff4aeed42edab152d3a64aa01336dbb01856e7167c194ac34b717  testgoreleaser_v0.0.0-next_Linux_i386.tar.gz
-ebf047718caaeaa82022d05873b6c6ba60c79e05d1961513ca715fd596373c4d  testgoreleaser_v0.0.0-next_Darwin_x86_64.tar.gz
